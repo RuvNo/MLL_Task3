@@ -1,3 +1,4 @@
+## Data Requirements
 The data for the tool has to fulfill the following requirements (keep in mind that data from https://www.nasdaq.com/market-activity/quotes/historical already fulfills those):
 - Contain at least 1500 observations.
 - Have a column named "Date" with this date format: "%m/%d/%Y" (e.g. "02/09/1978") which will serve as the index.
